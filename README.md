@@ -158,3 +158,17 @@ using Live Server or any browser.
 * Student Profile Images
 * Course Analytics Charts
 * Email Notifications
+
+## Project Screenshots
+
+### Dashboard Overview
+
+Displays total student count, course-wise statistics, registration form, and search functionality.
+
+![Dashboard Overview](screenshots/dashboard.png)
+
+### Student Management Module
+
+Displays registered students with edit, delete, and registration date tracking features.
+
+![Student Management Module](screenshots/dashboard2.png)
